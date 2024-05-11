@@ -1,0 +1,9 @@
+#courses-box{
+    border: 2px solid red;
+    width: 1300px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
